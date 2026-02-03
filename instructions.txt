@@ -1,0 +1,17 @@
+Oh no!!  
+It seems I have accidentally deleted a large chunck of the code
+for my pacman game.  Luckily I put most of the logic into
+functions but now most of my loops are broken.  Please
+fix the loops so we can play PacMan again!!!!
+
+1) loop over game events so we can exit the game
+2) add player input so we can move the player
+3) check for collisions with the ghosts
+4) draw the map
+5) draw the ghosts
+6) Make a new map
+7) extra credit - in the original pacman, some pellets were power up pellets.
+    they were bigger and if the player ate them, the ghosts changes colors and 
+    pacman could eat the ghosts.  I won't ask you implment the whole power up
+    system, but if you found a way to change the color of the ghosts after
+    eating a power up pellet, that would be really cool.
